@@ -398,7 +398,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      small chibi male _0: 1943115103435437094
+      small chibi male _1: -297921576309547243
+      small chibi male _2: 1245356798049712530
+      small chibi male _3: 5219673517464908513
+      small chibi male _4: 3964600828655321173
+      small chibi male _5: 2781471402759717702
+      small chibi male _6: -4980074978121255310
+      small chibi male _7: -1648498889039786450
+      small chibi male _8: -3271519209128811390
+      small chibi male _9: -1619864113578940190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
