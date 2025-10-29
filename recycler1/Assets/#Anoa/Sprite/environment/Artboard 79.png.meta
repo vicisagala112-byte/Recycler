@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: c2463a18c5a36464e873b1b8ad248861
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4514460450507770495
+    second: Artboard 79_0
+  - first:
+      213: -1776497016251520002
+    second: Artboard 79_1
+  - first:
+      213: 1483931018384505816
+    second: Artboard 79_2
+  - first:
+      213: -1040902941700799224
+    second: Artboard 79_3
+  - first:
+      213: -6796992099969027983
+    second: Artboard 79_4
+  - first:
+      213: -2654358894380713575
+    second: Artboard 79_5
+  - first:
+      213: -1698469969437967253
+    second: Artboard 79_6
+  - first:
+      213: -1551612440022107707
+    second: Artboard 79_7
+  - first:
+      213: 5312377258413717794
+    second: Artboard 79_8
+  - first:
+      213: 5561007059740642067
+    second: Artboard 79_9
+  - first:
+      213: 6698521263057904126
+    second: Artboard 79_10
+  - first:
+      213: -6706096725217954652
+    second: Artboard 79_11
+  - first:
+      213: 5864193169457788097
+    second: Artboard 79_12
+  - first:
+      213: 8617005984206063506
+    second: Artboard 79_13
+  - first:
+      213: 5488478699900744764
+    second: Artboard 79_14
+  - first:
+      213: 7942603737789513215
+    second: Artboard 79_15
+  - first:
+      213: -8086907130835629223
+    second: Artboard 79_16
+  - first:
+      213: -2691551513589898262
+    second: Artboard 79_17
+  - first:
+      213: 2248824694816353680
+    second: Artboard 79_18
+  - first:
+      213: 1168168377438468101
+    second: Artboard 79_19
+  - first:
+      213: -4933133629792294941
+    second: Artboard 79_20
+  - first:
+      213: 5972043011724462294
+    second: Artboard 79_21
+  - first:
+      213: 3073472370654211708
+    second: Artboard 79_22
+  - first:
+      213: -2842016361825577154
+    second: Artboard 79_23
+  - first:
+      213: 2757332524093587021
+    second: Artboard 79_24
+  - first:
+      213: 5442961884632769429
+    second: Artboard 79_25
+  - first:
+      213: 1059261786731021126
+    second: Artboard 79_26
+  - first:
+      213: 2779073087932836448
+    second: Artboard 79_27
+  - first:
+      213: -8454378662869604313
+    second: Artboard 79_28
+  - first:
+      213: -7391147795386008806
+    second: Artboard 79_29
+  - first:
+      213: 404667705430043076
+    second: Artboard 79_30
+  - first:
+      213: 8012437901668229555
+    second: Artboard 79_31
+  - first:
+      213: 3643632455595699558
+    second: Artboard 79_32
+  - first:
+      213: 1329427773323379602
+    second: Artboard 79_33
+  - first:
+      213: 5991679451307026724
+    second: Artboard 79_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artboard 79_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1622
+        width: 1207
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac0117cd596ae30800000000000000
+      internalID: 4514460450507770495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_1
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1281
+        width: 871
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb69c1406d9857e0800000000000000
+      internalID: -1776497016251520002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_2
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1324
+        width: 1224
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbfdf5266bf79410800000000000000
+      internalID: 1483931018384505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1316
+        width: 1210
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c34a1a48fd81f0800000000000000
+      internalID: -1040902941700799224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1003
+        width: 386
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b53472bb3ca1a0800000000000000
+      internalID: -6796992099969027983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1002
+        width: 290
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f90226a2d92bd0800000000000000
+      internalID: -2654358894380713575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_6
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 675
+        width: 371
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3bf9cf82dd68e0800000000000000
+      internalID: -1698469969437967253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_7
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 622
+        width: 646
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b763e4b0977ae0800000000000000
+      internalID: -1551612440022107707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_8
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 667
+        width: 371
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229fc9868fa59b940800000000000000
+      internalID: 5312377258413717794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 817
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc745157aac2d40800000000000000
+      internalID: 5561007059740642067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 656
+        width: 388
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1a7f4399de5fc50800000000000000
+      internalID: 6698521263057904126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 689
+        width: 326
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a439ff0f882fe2a0800000000000000
+      internalID: -6706096725217954652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_12
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 724
+        width: 1300
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4bdc72e9cc16150800000000000000
+      internalID: 5864193169457788097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 326
+        width: 310
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297840ca941c59770800000000000000
+      internalID: 8617005984206063506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 350
+        width: 472
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b1e06c4efa2c40800000000000000
+      internalID: 5488478699900744764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_15
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 373
+        width: 324
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd32ae840cc93e60800000000000000
+      internalID: 7942603737789513215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 359
+        width: 300
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b08fe8fc885cf80800000000000000
+      internalID: -8086907130835629223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_17
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 344
+        width: 364
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32fc9a820b5aad0800000000000000
+      internalID: -2691551513589898262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_18
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 344
+        width: 469
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da7a8252e653f10800000000000000
+      internalID: 2248824694816353680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_19
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 350
+        width: 582
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508701733fa263010800000000000000
+      internalID: 1168168377438468101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_20
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 334
+        width: 471
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e762beb91df98bb0800000000000000
+      internalID: -4933133629792294941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8c0395a75f0e250800000000000000
+      internalID: 5972043011724462294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 154
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e62df46da27aa20800000000000000
+      internalID: 3073472370654211708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 158
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d9833d212f88d0800000000000000
+      internalID: -2842016361825577154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 28
+        width: 1195
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eba3a5253044620800000000000000
+      internalID: 2757332524093587021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_25
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 55
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e68bfef8498b40800000000000000
+      internalID: 5442961884632769429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_26
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 52
+        width: 241
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438f3a9bf043be00800000000000000
+      internalID: 1059261786731021126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_27
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 56
+        width: 253
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa513df30419620800000000000000
+      internalID: 2779073087932836448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_28
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 60
+        width: 310
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728e30b36630caa80800000000000000
+      internalID: -8454378662869604313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_29
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 205
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bfa957d3e5d6990800000000000000
+      internalID: -7391147795386008806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_30
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 86
+        width: 439
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ea32522bad9500800000000000000
+      internalID: 404667705430043076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1afc1e1d5e13f60800000000000000
+      internalID: 8012437901668229555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66daddfd968c09230800000000000000
+      internalID: 3643632455595699558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 41
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938a772483137210800000000000000
+      internalID: 1329427773323379602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 79_34
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 48
+        width: 210
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a92737b8b62350800000000000000
+      internalID: 5991679451307026724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 6d7c85afc162dab44a33bf2e4d78e975
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8114412618485007702
+    second: chibi male update_0
+  - first:
+      213: 8234292260271018292
+    second: chibi male update_1
+  - first:
+      213: -5665632970881095596
+    second: chibi male update_2
+  - first:
+      213: -6463650049390170449
+    second: chibi male update_3
+  - first:
+      213: -3576612945546689722
+    second: chibi male update_4
+  - first:
+      213: -7708772099441079182
+    second: chibi male update_5
+  - first:
+      213: -3531855599036973441
+    second: chibi male update_6
+  - first:
+      213: -8100143861574266394
+    second: chibi male update_7
+  - first:
+      213: -439648291003413354
+    second: chibi male update_8
+  - first:
+      213: -792560774293053855
+    second: chibi male update_9
+  - first:
+      213: 3343028758193160654
+    second: chibi male update_10
+  - first:
+      213: -1753463953013175919
+    second: chibi male update_11
+  - first:
+      213: -2309616534623910693
+    second: chibi male update_12
+  - first:
+      213: -2270428547096790007
+    second: chibi male update_13
+  - first:
+      213: 7416312411093925009
+    second: chibi male update_14
+  - first:
+      213: 100418684488133684
+    second: chibi male update_15
+  - first:
+      213: -923367408898270538
+    second: chibi male update_16
+  - first:
+      213: -1323518143662409565
+    second: chibi male update_17
+  - first:
+      213: 3017548168047347967
+    second: chibi male update_18
+  - first:
+      213: 988509300203689890
+    second: chibi male update_19
+  - first:
+      213: -3778133138463477390
+    second: chibi male update_20
+  - first:
+      213: 1978713048175499868
+    second: chibi male update_21
+  - first:
+      213: 1677736384563760995
+    second: chibi male update_22
+  - first:
+      213: -6382066907224827670
+    second: chibi male update_23
+  - first:
+      213: 4257109962838044836
+    second: chibi male update_24
+  - first:
+      213: 7483007119204513398
+    second: chibi male update_25
+  - first:
+      213: 3385927061085268858
+    second: chibi male update_26
+  - first:
+      213: 8067925926840405066
+    second: chibi male update_27
+  - first:
+      213: 5251630246747594260
+    second: chibi male update_28
+  - first:
+      213: -4634062107855208089
+    second: chibi male update_29
+  - first:
+      213: -3232686097102091572
+    second: chibi male update_30
+  - first:
+      213: 3368253282934874495
+    second: chibi male update_31
+  - first:
+      213: 5155609016155555145
+    second: chibi male update_32
+  - first:
+      213: -1822484301866508614
+    second: chibi male update_33
+  - first:
+      213: -8255816641973485663
+    second: chibi male update_34
+  - first:
+      213: -4400498975399850741
+    second: chibi male update_35
+  - first:
+      213: -2651299979448295724
+    second: chibi male update_36
+  - first:
+      213: 4592733327899510538
+    second: chibi male update_37
+  - first:
+      213: -1387263904210937600
+    second: chibi male update_38
+  - first:
+      213: -1385909125079147598
+    second: chibi male update_39
+  - first:
+      213: -4664359347293661671
+    second: chibi male update_40
+  - first:
+      213: 3292773900180505913
+    second: chibi male update_41
+  - first:
+      213: -3545991523352763809
+    second: chibi male update_42
+  - first:
+      213: 7432363303187396053
+    second: chibi male update_43
+  - first:
+      213: 6017017485665131561
+    second: chibi male update_44
+  - first:
+      213: -6861244934856874210
+    second: chibi male update_45
+  - first:
+      213: -7776026959709131181
+    second: chibi male update_46
+  - first:
+      213: -3713988225358456748
+    second: chibi male update_47
+  - first:
+      213: 3612092121717522447
+    second: chibi male update_48
+  - first:
+      213: 5716464512051201478
+    second: chibi male update_49
+  - first:
+      213: -6914841534834629999
+    second: chibi male update_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chibi male update_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 679
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf04a27b0d36f80800000000000000
+      internalID: -8114412618485007702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 652
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d33efe25164270800000000000000
+      internalID: 8234292260271018292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 652
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45824eea4d0af51b0800000000000000
+      internalID: -5665632970881095596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea9a5a6808c46a0800000000000000
+      internalID: -6463650049390170449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 652
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64340a9c9715d5ec0800000000000000
+      internalID: -3576612945546689722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 572
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4f5e4e90f40590800000000000000
+      internalID: -7708772099441079182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 572
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3d659b045cfec0800000000000000
+      internalID: -3531855599036973441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 426
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11e450312869f80800000000000000
+      internalID: -8100143861574266394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 430
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c42ac653e06e9f0800000000000000
+      internalID: -439648291003413354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 424
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e9a59cc224005f0800000000000000
+      internalID: -792560774293053855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 424
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c40681f2d46e20800000000000000
+      internalID: 3343028758193160654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 426
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199823233d17aa7e0800000000000000
+      internalID: -1753463953013175919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 474
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48f56aff792ffd0800000000000000
+      internalID: -2309616534623910693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 474
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb3620441dd70e0800000000000000
+      internalID: -2270428547096790007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 464
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf29638d80ce660800000000000000
+      internalID: 7416312411093925009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 474
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2ab1f242c46100800000000000000
+      internalID: 100418684488133684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 474
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba127bdb3a8f23f0800000000000000
+      internalID: -923367408898270538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b739b24be1ade0800000000000000
+      internalID: -1323518143662409565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8c719321c70e920800000000000000
+      internalID: 3017548168047347967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 289
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79fcf98f3e7bd00800000000000000
+      internalID: 988509300203689890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 291
+        width: 117
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271b0cf8def519bc0800000000000000
+      internalID: -3778133138463477390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_21
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 292
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5eec980dc57b10800000000000000
+      internalID: 1978713048175499868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 337
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcbac4a54884710800000000000000
+      internalID: 1677736384563760995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 337
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8961626f75e67a0800000000000000
+      internalID: -6382066907224827670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_24
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 337
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0fcb0c4fa441b30800000000000000
+      internalID: 4257109962838044836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_25
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 337
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67677e7045bf8d760800000000000000
+      internalID: 7483007119204513398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 337
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bae5ff8ba3dfe20800000000000000
+      internalID: 3385927061085268858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_27
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 337
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8c7f72e707ff60800000000000000
+      internalID: 8067925926840405066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 337
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e561592e981e840800000000000000
+      internalID: 5251630246747594260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 327
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614132b01180bfb0800000000000000
+      internalID: -4634062107855208089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac2e74f113323d0800000000000000
+      internalID: -3232686097102091572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 145
+        width: 117
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7160ead3807ebe20800000000000000
+      internalID: 3368253282934874495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 148
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c0c8a5176c8740800000000000000
+      internalID: 5155609016155555145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 152
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5582fe2c35b6e0800000000000000
+      internalID: -1822484301866508614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 149
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af796c51827d6d80800000000000000
+      internalID: -8255816641973485663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 197
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d42d82f794ee2c0800000000000000
+      internalID: -4400498975399850741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 197
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dedbf347b0b43bd0800000000000000
+      internalID: -2651299979448295724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074c8dd0aaacbf30800000000000000
+      internalID: 4592733327899510538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_38
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 197
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00919c344d27fbce0800000000000000
+      internalID: -1387263904210937600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_39
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5fac5ef244cce0800000000000000
+      internalID: -1385909125079147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d9cfe2edd44fb0800000000000000
+      internalID: -4664359347293661671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935cfe59a6842bd20800000000000000
+      internalID: 3292773900180505913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52230a3f7b1acec0800000000000000
+      internalID: -3545991523352763809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53220cb0f052760800000000000000
+      internalID: 7432363303187396053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5260168db08350800000000000000
+      internalID: 6017017485665131561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_45
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 51
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1768ec8516f7c0a0800000000000000
+      internalID: -6861244934856874210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_46
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2da6eda0061490800000000000000
+      internalID: -7776026959709131181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_47
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589687f263457cc0800000000000000
+      internalID: -3713988225358456748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_48
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 51
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c5f2a5aab02230800000000000000
+      internalID: 3612092121717522447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_49
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 51
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c540f3cf26f45f40800000000000000
+      internalID: 5716464512051201478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi male update_50
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 51
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a01ea24c8900a0800000000000000
+      internalID: -6914841534834629999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
