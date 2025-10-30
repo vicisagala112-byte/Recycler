@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      botol kaca_0: -5758023185365643070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      botol_0: 3662241982027444729
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cangkang Telur_0: 8191659281667461872
+      Cangkang Telur_1: 7360436405387201653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

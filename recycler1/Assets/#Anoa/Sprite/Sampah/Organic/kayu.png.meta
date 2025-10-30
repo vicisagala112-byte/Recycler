@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kayu_0: -6706627169678254852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
