@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Sungai
+  - TongOrganik
+  - TongAnorganik
+  - TongB3
   layers:
   - Default
   - TransparentFX
