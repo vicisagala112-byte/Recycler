@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 using UnityEngine.UI; // <--- penting untuk pakai Slider
 using System.Collections;
