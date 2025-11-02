@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5371905624462882593}
   - component: {fileID: -967285925217453933}
   - component: {fileID: -4099133137335889518}
+  - component: {fileID: 2572781292017009544}
   m_Layer: 0
   m_Name: ampule
   m_TagString: Untagged
@@ -207,3 +208,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeSampah: 2
   boolSudahDibuang: 1
+--- !u!95 &2572781292017009544
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3380251088757249449}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8ef81075262f4c0478bdba316b71f455, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
