@@ -1,22 +1,32 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+
 namespace Anoa.Player
 {
     public class PlayerController : MonoBehaviour
     {
+        public static PlayerController instance;
         [Header("Movement Settings")]
         [SerializeField] protected float floatMoveSpeed = 5f;
         [SerializeField] protected Joystick joystick;
 
         protected Rigidbody2D rb;
         protected Animator anim;
+        public Animator Animator => anim;
+
         protected Vector2 vecMovement;
 
         [Header("Boat Settings")]
         [SerializeField] protected bool boolIsOnBoat = false;
         [SerializeField] protected GameObject objBoat;
 
+        public float MagnetRange = 10;
+
+        public void Awake()
+        {
+            instance = this;
+        }
         protected void Start()
         {
             rb = GetComponent<Rigidbody2D>();
@@ -70,6 +80,11 @@ namespace Anoa.Player
 
                 Debug.Log("Player turun kapal!");
             }
+        }
+
+        private void OnDrawGizmosSelected()
+        {
+            Gizmos.DrawWireSphere(transform.position, MagnetRange);
         }
     }
 }

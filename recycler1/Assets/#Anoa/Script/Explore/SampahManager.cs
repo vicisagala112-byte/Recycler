@@ -6,6 +6,7 @@ namespace Anoa.Explore
 {
     public class SampahManager : MonoBehaviour
     {
+        public static SampahManager instance;
         [Header("Pengaturan Sampah")]
         [SerializeField] protected GameObject[] arrObjSampahPrefabs;
         [SerializeField] protected int intJumlahMaksimalSampah = 20;
@@ -19,6 +20,11 @@ namespace Anoa.Explore
         protected List<GameObject> listObjSampahPool = new List<GameObject>();
         protected List<Collider2D> listColSungai = new List<Collider2D>();
 
+        private void Awake()
+        {
+            instance = this;
+        }
+
         protected void Start()
         {
             GameObject[] _arrObjSungai = GameObject.FindGameObjectsWithTag("Sungai");
@@ -26,7 +32,7 @@ namespace Anoa.Explore
             {
                 Collider2D _col = _objSungai.GetComponent<Collider2D>();
                 if (_col != null)
-                    listColSungai.Add(_col);
+                    listColSungai.Add(_col); 
             }
 
             if (listColSungai.Count == 0)

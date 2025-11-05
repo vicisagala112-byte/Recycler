@@ -1,11 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using Anoa.Player;
 
 namespace Anoa.Explore
 {
     public class SampahUIManager : MonoBehaviour
     {
+        public static SampahUIManager instance;
         [Header("Referensi UI")]
         [SerializeField] protected Image imgIconTongSampah;
         [SerializeField] protected TMP_Text textJumlah;
@@ -18,6 +20,11 @@ namespace Anoa.Explore
         protected void Start()
         {
             FunctionUpdateUI();
+        }
+
+        private void Awake()
+        {
+            instance = this;
         }
 
         public bool FunctionTambahSampah()
@@ -39,6 +46,14 @@ namespace Anoa.Explore
         {
             if (textJumlah != null)
                 textJumlah.text = $"{intJumlahSampah}/{intKapasitasMaksimal}";
+
+            // Cek apakah tong penuh dan ubah animasi player
+            if (PlayerController.instance != null && PlayerController.instance.Animator != null)
+            {
+                bool isFull = intJumlahSampah >= intKapasitasMaksimal;
+                PlayerController.instance.Animator.SetBool("isCarryingTrash", isFull);
+            }
         }
+
     }
 }

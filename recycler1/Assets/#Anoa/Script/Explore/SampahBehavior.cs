@@ -1,3 +1,4 @@
+using Anoa.Player;
 using UnityEngine;
 
 namespace Anoa.Explore
@@ -13,8 +14,8 @@ namespace Anoa.Explore
         protected void Start()
         {
             transPlayer = GameObject.FindGameObjectWithTag("Player")?.transform;
-            classSampahManager = FindObjectOfType<SampahManager>();
-            classSampahUI = FindObjectOfType<SampahUIManager>();
+            classSampahManager = SampahManager.instance; 
+            classSampahUI = SampahUIManager.instance;
         }
 
         protected void Update()
@@ -23,6 +24,12 @@ namespace Anoa.Explore
                 return;
 
             float _floatDistance = Vector2.Distance(transform.position, transPlayer.position);
+
+            if (_floatDistance <= PlayerController.instance.MagnetRange)
+            {
+                transform.position = Vector3.MoveTowards(transform.position, transPlayer.position, Time.deltaTime * 10);
+            }
+
             if (_floatDistance <= floatDetectRange)
             {
                 if (classSampahUI.FunctionTongPenuh())
