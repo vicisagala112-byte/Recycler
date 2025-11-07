@@ -147,4 +147,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d7ddd8dd6c2af24d9d5ab2160ea2602, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  idSampah: 2
   floatDetectRange: 1

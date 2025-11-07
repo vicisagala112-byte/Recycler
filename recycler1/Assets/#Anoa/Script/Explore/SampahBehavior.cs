@@ -1,10 +1,13 @@
-using Anoa.Player;
+﻿using Anoa.Player;
 using UnityEngine;
 
 namespace Anoa.Explore
 {
     public class SampahBehavior : MonoBehaviour
     {
+        [Header("ID Sampah (0–23)")]
+        public int idSampah; // isi ID berbeda untuk tiap prefab sampah
+
         [SerializeField] protected float floatDetectRange = 1.5f;
 
         protected Transform transPlayer;
@@ -14,7 +17,7 @@ namespace Anoa.Explore
         protected void Start()
         {
             transPlayer = GameObject.FindGameObjectWithTag("Player")?.transform;
-            classSampahManager = SampahManager.instance; 
+            classSampahManager = SampahManager.instance;
             classSampahUI = SampahUIManager.instance;
         }
 
@@ -23,21 +26,30 @@ namespace Anoa.Explore
             if (transPlayer == null || classSampahUI == null)
                 return;
 
+            if (classSampahUI.FunctionTongPenuh())
+                return;
+
             float _floatDistance = Vector2.Distance(transform.position, transPlayer.position);
 
+            // 🔹 Tarik ke player jika dalam jangkauan magnet
             if (_floatDistance <= PlayerController.instance.MagnetRange)
             {
-                transform.position = Vector3.MoveTowards(transform.position, transPlayer.position, Time.deltaTime * 10);
+                transform.position = Vector3.MoveTowards(
+                    transform.position,
+                    transPlayer.position,
+                    Time.deltaTime * 10
+                );
             }
 
+            // 🔹 Jika cukup dekat → ambil
             if (_floatDistance <= floatDetectRange)
             {
-                if (classSampahUI.FunctionTongPenuh())
-                    return;
-
                 bool _boolBerhasil = classSampahUI.FunctionTambahSampah();
                 if (_boolBerhasil)
                 {
+                    // Kirim ID sampah ke PlayerController
+                    PlayerController.instance?.FunctionTriggerBawaSampah(idSampah);
+
                     gameObject.SetActive(false);
                     classSampahManager?.FunctionOnTrashCollected(gameObject);
                 }
