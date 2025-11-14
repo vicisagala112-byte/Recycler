@@ -15,6 +15,7 @@ namespace Anoa
 
         protected GameManagerSorting gameManagerSorting;
         protected TrashManager trashManager;
+
         protected Vector3 vec3PosisiAwal;
 
         private void Start()
@@ -38,6 +39,7 @@ namespace Anoa
         {
             if (boolSudahDibuang) return;
 
+            // Validasi tag tong
             if (!_coll.CompareTag("TongOrganik") &&
                 !_coll.CompareTag("TongAnorganik") &&
                 !_coll.CompareTag("TongB3"))
@@ -45,12 +47,10 @@ namespace Anoa
 
             bool _benar = false;
 
-            if (_coll.CompareTag("TongOrganik") && typeSampah == TRASH_TYPE.ORGANIK)
-                _benar = true;
-            else if (_coll.CompareTag("TongAnorganik") && typeSampah == TRASH_TYPE.ANORGANIK)
-                _benar = true;
-            else if (_coll.CompareTag("TongB3") && typeSampah == TRASH_TYPE.B3)
-                _benar = true;
+            // Cek kecocokan tong
+            if (_coll.CompareTag("TongOrganik") && typeSampah == TRASH_TYPE.ORGANIK) _benar = true;
+            else if (_coll.CompareTag("TongAnorganik") && typeSampah == TRASH_TYPE.ANORGANIK) _benar = true;
+            else if (_coll.CompareTag("TongB3") && typeSampah == TRASH_TYPE.B3) _benar = true;
 
             Animator tongAnimator = _coll.GetComponent<Animator>();
 
@@ -58,32 +58,34 @@ namespace Anoa
             {
                 boolSudahDibuang = true;
 
-                // 🔹 Animasi sampah masuk
+                // Animasi sampah masuk
                 if (animator != null)
                     animator.SetTrigger("masuk");
 
-                // 🔹 Animasi tong benar
+                // Animasi tong benar
                 if (tongAnimator != null)
                     tongAnimator.SetTrigger("benar");
 
+                // Beritahu GameManager
                 gameManagerSorting.FunctionBenarBuangSampah(this);
 
+                // Hilangkan sampah setelah animasi
                 StartCoroutine(DisableAfterAnimation());
             }
             else
             {
-                // 🔹 Animasi tong salah
+                // Animasi tong salah
                 if (tongAnimator != null)
                     tongAnimator.SetTrigger("salah");
 
-                // 🔹 Warna merah sementara
+                // Flash merah
                 SpriteRenderer sr = _coll.GetComponent<SpriteRenderer>();
                 if (sr != null)
                     StartCoroutine(FlashRed(sr));
 
                 gameManagerSorting.FunctionSalahBuangSampah();
 
-                // 🔹 Balik ke posisi awal
+                // Kembalikan sampah
                 transform.position = vec3PosisiAwal;
             }
         }
@@ -99,6 +101,7 @@ namespace Anoa
         private IEnumerator DisableAfterAnimation()
         {
             float animDuration = 0.5f;
+
             if (animator != null)
             {
                 AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
