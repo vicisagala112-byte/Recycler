@@ -1,334 +1,334 @@
 fileFormatVersion: 2
-guid: 344951e752f23f842b523575aebc42cf
+guid: 58ae1e98dcbae1345aa126a4efcc816e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9194101588010504163
-    second: chibi male revisi-01_0
+      213: -4244464605014999170
+    second: chibi male revisi-02_0
   - first:
-      213: -7513954833031818146
-    second: chibi male revisi-01_1
+      213: 1225570504481489944
+    second: chibi male revisi-02_1
   - first:
-      213: -3369845275726592579
-    second: chibi male revisi-01_2
+      213: -621489283401980800
+    second: chibi male revisi-02_2
   - first:
-      213: -7150930971736858383
-    second: chibi male revisi-01_3
+      213: -3379166817272931000
+    second: chibi male revisi-02_3
   - first:
-      213: -4476623621907218819
-    second: chibi male revisi-01_4
+      213: -1769035707886796606
+    second: chibi male revisi-02_4
   - first:
-      213: -1900371040272427601
-    second: chibi male revisi-01_5
+      213: -9183935374578649515
+    second: chibi male revisi-02_5
   - first:
-      213: -224978464104558529
-    second: chibi male revisi-01_6
+      213: 7289327512962517894
+    second: chibi male revisi-02_6
   - first:
-      213: -2508359784357579850
-    second: chibi male revisi-01_7
+      213: 1968674764103230450
+    second: chibi male revisi-02_7
   - first:
-      213: -8546152216029935830
-    second: chibi male revisi-01_8
+      213: -9033922092008153695
+    second: chibi male revisi-02_8
   - first:
-      213: -3022767774226461385
-    second: chibi male revisi-01_9
+      213: -6011871631789046379
+    second: chibi male revisi-02_9
   - first:
-      213: 1602278123275797380
-    second: chibi male revisi-01_10
+      213: -3256625478206128444
+    second: chibi male revisi-02_10
   - first:
-      213: -7414530273497618513
-    second: chibi male revisi-01_11
+      213: 1905765434078626657
+    second: chibi male revisi-02_11
   - first:
-      213: -6598554809916716118
-    second: chibi male revisi-01_12
+      213: -8864915772136308330
+    second: chibi male revisi-02_12
   - first:
-      213: -8828093736251908522
-    second: chibi male revisi-01_13
+      213: -4703153433706570068
+    second: chibi male revisi-02_13
   - first:
-      213: 6719393495070852631
-    second: chibi male revisi-01_14
+      213: 5626959935235002512
+    second: chibi male revisi-02_14
   - first:
-      213: 6895992395384807629
-    second: chibi male revisi-01_15
+      213: 8756488727471775543
+    second: chibi male revisi-02_15
   - first:
-      213: 357257034523794099
-    second: chibi male revisi-01_16
+      213: -8150911760482441124
+    second: chibi male revisi-02_16
   - first:
-      213: -7597199574657375447
-    second: chibi male revisi-01_17
+      213: 332861836248855048
+    second: chibi male revisi-02_17
   - first:
-      213: 2999551521909003322
-    second: chibi male revisi-01_18
+      213: 7476882253336886908
+    second: chibi male revisi-02_18
   - first:
-      213: 1654577670208351558
-    second: chibi male revisi-01_19
+      213: -7438785615439612072
+    second: chibi male revisi-02_19
   - first:
-      213: -6736737309040718316
-    second: chibi male revisi-01_20
+      213: 7996272597586994811
+    second: chibi male revisi-02_20
   - first:
-      213: 1565317192976579391
-    second: chibi male revisi-01_21
+      213: -4856429266101382907
+    second: chibi male revisi-02_21
   - first:
-      213: -9081567809001966241
-    second: chibi male revisi-01_22
+      213: 918265895299784177
+    second: chibi male revisi-02_22
   - first:
-      213: 1644977680924693496
-    second: chibi male revisi-01_23
+      213: -6021511859200682831
+    second: chibi male revisi-02_23
   - first:
-      213: 3870193192958934243
-    second: chibi male revisi-01_24
+      213: 4610438456006098662
+    second: chibi male revisi-02_24
   - first:
-      213: -5143068605610860113
-    second: chibi male revisi-01_25
+      213: 1154051804595241456
+    second: chibi male revisi-02_25
   - first:
-      213: -3262501697399424131
-    second: chibi male revisi-01_26
+      213: 2105123770293176092
+    second: chibi male revisi-02_26
   - first:
-      213: -762274816965120206
-    second: chibi male revisi-01_27
+      213: 2975936696565161487
+    second: chibi male revisi-02_27
   - first:
-      213: 4877608469723283021
-    second: chibi male revisi-01_28
+      213: 6493340546006209472
+    second: chibi male revisi-02_28
   - first:
-      213: -3572466826805513484
-    second: chibi male revisi-01_29
+      213: -1805921904760879762
+    second: chibi male revisi-02_29
   - first:
-      213: -4184043935202332353
-    second: chibi male revisi-01_30
+      213: -3784443249786148822
+    second: chibi male revisi-02_30
   - first:
-      213: 9100660186829460991
-    second: chibi male revisi-01_31
+      213: -5412062793838961250
+    second: chibi male revisi-02_31
   - first:
-      213: -7793674740977130575
-    second: chibi male revisi-01_32
+      213: 5961494738121250801
+    second: chibi male revisi-02_32
   - first:
-      213: 4594287595084611196
-    second: chibi male revisi-01_33
+      213: 1936903891026446323
+    second: chibi male revisi-02_33
   - first:
-      213: 3299944156181436458
-    second: chibi male revisi-01_34
+      213: -1009698561534420190
+    second: chibi male revisi-02_34
   - first:
-      213: -2144707164618415547
-    second: chibi male revisi-01_35
+      213: 4402593950964456629
+    second: chibi male revisi-02_35
   - first:
-      213: -8591555162460828902
-    second: chibi male revisi-01_36
+      213: -6623123650585219024
+    second: chibi male revisi-02_36
   - first:
-      213: 8722120869808657607
-    second: chibi male revisi-01_37
+      213: -6636198976500749227
+    second: chibi male revisi-02_37
   - first:
-      213: -8549204268607952174
-    second: chibi male revisi-01_38
+      213: 3252221477891776366
+    second: chibi male revisi-02_38
   - first:
-      213: -6721481719659919932
-    second: chibi male revisi-01_39
+      213: -451071578923140257
+    second: chibi male revisi-02_39
   - first:
-      213: -7851516513836622110
-    second: chibi male revisi-01_40
+      213: -6884585789321866940
+    second: chibi male revisi-02_40
   - first:
-      213: -2410959633296968691
-    second: chibi male revisi-01_41
+      213: -6316544316465234660
+    second: chibi male revisi-02_41
   - first:
-      213: 2140769051161380297
-    second: chibi male revisi-01_42
+      213: 6835024787742299801
+    second: chibi male revisi-02_42
   - first:
-      213: 746726568420183570
-    second: chibi male revisi-01_43
+      213: 4821029423691361261
+    second: chibi male revisi-02_43
   - first:
-      213: -4540665041560503237
-    second: chibi male revisi-01_44
+      213: -3351847150836704287
+    second: chibi male revisi-02_44
   - first:
-      213: 3994704349699781373
-    second: chibi male revisi-01_45
+      213: 1663152333122034702
+    second: chibi male revisi-02_45
   - first:
-      213: 5271136031476445344
-    second: chibi male revisi-01_46
+      213: -6320083099526648604
+    second: chibi male revisi-02_46
   - first:
-      213: -470988299883853462
-    second: chibi male revisi-01_47
+      213: -4579853777916529593
+    second: chibi male revisi-02_47
   - first:
-      213: 7264941792764432164
-    second: chibi male revisi-01_48
+      213: 2211573048136370805
+    second: chibi male revisi-02_48
   - first:
-      213: -860422730674830727
-    second: chibi male revisi-01_49
+      213: 8581069814250455843
+    second: chibi male revisi-02_49
   - first:
-      213: 2897886431166296896
-    second: chibi male revisi-01_50
+      213: 922253077548317439
+    second: chibi male revisi-02_50
   - first:
-      213: 5402247373570126505
-    second: chibi male revisi-01_51
+      213: -4436042888521244804
+    second: chibi male revisi-02_51
   - first:
-      213: -4157469060915473248
-    second: chibi male revisi-01_52
+      213: 4733328065521765417
+    second: chibi male revisi-02_52
   - first:
-      213: 616145681655112015
-    second: chibi male revisi-01_53
+      213: 3108975253759249714
+    second: chibi male revisi-02_53
   - first:
-      213: 5926467320626328500
-    second: chibi male revisi-01_54
+      213: 408726560494683289
+    second: chibi male revisi-02_54
   - first:
-      213: 2625378510182752340
-    second: chibi male revisi-01_55
+      213: 5427197668173091500
+    second: chibi male revisi-02_55
   - first:
-      213: 7942797857855351558
-    second: chibi male revisi-01_56
+      213: -3660821873072104048
+    second: chibi male revisi-02_56
   - first:
-      213: 5894008117411562709
-    second: chibi male revisi-01_57
+      213: 5482673725225689296
+    second: chibi male revisi-02_57
   - first:
-      213: -9026315919785187989
-    second: chibi male revisi-01_58
+      213: -7494825970087870925
+    second: chibi male revisi-02_58
   - first:
-      213: -1133858421875600281
-    second: chibi male revisi-01_59
+      213: -8321607219249018514
+    second: chibi male revisi-02_59
   - first:
-      213: -8609919550644905607
-    second: chibi male revisi-01_60
+      213: -8987257829811162608
+    second: chibi male revisi-02_60
   - first:
-      213: 3149044921960812577
-    second: chibi male revisi-01_61
+      213: 1258224922387714413
+    second: chibi male revisi-02_61
   - first:
-      213: -5335869635323296224
-    second: chibi male revisi-01_62
+      213: 5373955282509418587
+    second: chibi male revisi-02_62
   - first:
-      213: 8973355241917274746
-    second: chibi male revisi-01_63
+      213: -7448052622675171212
+    second: chibi male revisi-02_63
   - first:
-      213: 28281653798202198
-    second: chibi male revisi-01_64
+      213: 5441266768017828782
+    second: chibi male revisi-02_64
   - first:
-      213: 5098653331666486900
-    second: chibi male revisi-01_65
+      213: 6908073269487108207
+    second: chibi male revisi-02_65
   - first:
-      213: -8083942639728856924
-    second: chibi male revisi-01_66
+      213: 1830540725161395521
+    second: chibi male revisi-02_66
   - first:
-      213: 8765364103991289669
-    second: chibi male revisi-01_67
+      213: -2402777632311040096
+    second: chibi male revisi-02_67
   - first:
-      213: 488484367256285357
-    second: chibi male revisi-01_68
+      213: -326816441179550856
+    second: chibi male revisi-02_68
   - first:
-      213: 5955915679465102111
-    second: chibi male revisi-01_69
+      213: -884504251206819395
+    second: chibi male revisi-02_69
   - first:
-      213: -3926450935998505467
-    second: chibi male revisi-01_70
+      213: 7646098845129184388
+    second: chibi male revisi-02_70
   - first:
-      213: -4112628082666005306
-    second: chibi male revisi-01_71
+      213: 7056144200318394242
+    second: chibi male revisi-02_71
   - first:
-      213: -1344943595354634416
-    second: chibi male revisi-01_72
+      213: 1408415460419204606
+    second: chibi male revisi-02_72
   - first:
-      213: 3093856573245631762
-    second: chibi male revisi-01_73
+      213: -2163796075732838846
+    second: chibi male revisi-02_73
   - first:
-      213: -5743152684287038644
-    second: chibi male revisi-01_74
+      213: 3696666521619777822
+    second: chibi male revisi-02_74
   - first:
-      213: 6245942648356031968
-    second: chibi male revisi-01_75
+      213: -7329262313469272897
+    second: chibi male revisi-02_75
   - first:
-      213: -1133299947047265508
-    second: chibi male revisi-01_76
+      213: 3292742003411104509
+    second: chibi male revisi-02_76
   - first:
-      213: -1244404618187331456
-    second: chibi male revisi-01_77
+      213: 6547849491042612755
+    second: chibi male revisi-02_77
   - first:
-      213: -7359053619673378610
-    second: chibi male revisi-01_78
+      213: -3683310895340238851
+    second: chibi male revisi-02_78
   - first:
-      213: 2420184744017851883
-    second: chibi male revisi-01_79
+      213: 7600237928034168899
+    second: chibi male revisi-02_79
   - first:
-      213: 3698670339174401444
-    second: chibi male revisi-01_80
+      213: -3338557692658071842
+    second: chibi male revisi-02_80
   - first:
-      213: -8124484329747903597
-    second: chibi male revisi-01_81
+      213: 1668327717068136693
+    second: chibi male revisi-02_81
   - first:
-      213: -4764862742260620424
-    second: chibi male revisi-01_82
+      213: -6621231664977540704
+    second: chibi male revisi-02_82
   - first:
-      213: 833562223746101499
-    second: chibi male revisi-01_83
+      213: -5321788341145370483
+    second: chibi male revisi-02_83
   - first:
-      213: -1092039360095680881
-    second: chibi male revisi-01_84
+      213: 3484501305999466139
+    second: chibi male revisi-02_84
   - first:
-      213: 6613526838676515446
-    second: chibi male revisi-01_85
+      213: -1359633672123449204
+    second: chibi male revisi-02_85
   - first:
-      213: 1986984277327580579
-    second: chibi male revisi-01_86
+      213: -3739999809395998362
+    second: chibi male revisi-02_86
   - first:
-      213: -8183324142006727384
-    second: chibi male revisi-01_87
+      213: 1363013797699907530
+    second: chibi male revisi-02_87
   - first:
-      213: -9184288871312998081
-    second: chibi male revisi-01_88
+      213: 7432577765346618084
+    second: chibi male revisi-02_88
   - first:
-      213: 1773624761249642371
-    second: chibi male revisi-01_89
+      213: -2729031882218831410
+    second: chibi male revisi-02_89
   - first:
-      213: 1810388220546699339
-    second: chibi male revisi-01_90
+      213: -6782871956667769140
+    second: chibi male revisi-02_90
   - first:
-      213: 1755683875903846975
-    second: chibi male revisi-01_91
+      213: -4404826493972325021
+    second: chibi male revisi-02_91
   - first:
-      213: -7554974503852002828
-    second: chibi male revisi-01_92
+      213: -3999109757652603064
+    second: chibi male revisi-02_92
   - first:
-      213: -3893118264531989152
-    second: chibi male revisi-01_93
+      213: 6551637526719517789
+    second: chibi male revisi-02_93
   - first:
-      213: -1339336115978093193
-    second: chibi male revisi-01_94
+      213: 4313536010150510509
+    second: chibi male revisi-02_94
   - first:
-      213: 8945601556291753622
-    second: chibi male revisi-01_95
+      213: -891640766231332640
+    second: chibi male revisi-02_95
   - first:
-      213: -9018623761358580319
-    second: chibi male revisi-01_96
+      213: 5361236329115263828
+    second: chibi male revisi-02_96
   - first:
-      213: 6868510954347055115
-    second: chibi male revisi-01_97
+      213: 5992757104204596893
+    second: chibi male revisi-02_97
   - first:
-      213: -7783526114005404417
-    second: chibi male revisi-01_98
+      213: -8820379413952527552
+    second: chibi male revisi-02_98
   - first:
-      213: 6613578167711745637
-    second: chibi male revisi-01_99
+      213: 6961164355551643977
+    second: chibi male revisi-02_99
   - first:
-      213: 8005040509105830995
-    second: chibi male revisi-01_100
+      213: 2872358365309361343
+    second: chibi male revisi-02_100
   - first:
-      213: -1242562823944567276
-    second: chibi male revisi-01_101
+      213: -4007364615921288385
+    second: chibi male revisi-02_101
   - first:
-      213: 8668753819196757110
-    second: chibi male revisi-01_102
+      213: 6597025607286128501
+    second: chibi male revisi-02_102
   - first:
-      213: -593052022310322442
-    second: chibi male revisi-01_103
+      213: 1221006931827605723
+    second: chibi male revisi-02_103
   - first:
-      213: -5231472704411722027
-    second: chibi male revisi-01_104
+      213: 5850073968236383289
+    second: chibi male revisi-02_104
   - first:
-      213: -8212054700453127194
-    second: chibi male revisi-01_105
+      213: 1522231274825012257
+    second: chibi male revisi-02_105
   - first:
-      213: -8341297746820858755
-    second: chibi male revisi-01_106
+      213: -5736702497999452722
+    second: chibi male revisi-02_106
   - first:
-      213: -3024447504110765792
-    second: chibi male revisi-01_107
+      213: 4580311951235206545
+    second: chibi male revisi-02_107
   - first:
-      213: 4138877086505599823
-    second: chibi male revisi-01_108
+      213: 1309183917314595514
+    second: chibi male revisi-02_108
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -463,7 +463,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chibi male revisi-01_0
+      name: chibi male revisi-02_0
       rect:
         serializedVersion: 2
         x: 522
@@ -478,14 +478,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ef883e8ea2089f70800000000000000
-      internalID: 9194101588010504163
+      spriteID: e7fbc5c0ee1a815c0800000000000000
+      internalID: -4244464605014999170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_1
+      name: chibi male revisi-02_1
       rect:
         serializedVersion: 2
         x: 576
@@ -500,14 +500,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e541fc6d3e119b790800000000000000
-      internalID: -7513954833031818146
+      spriteID: 814c0d661e9120110800000000000000
+      internalID: 1225570504481489944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_2
+      name: chibi male revisi-02_2
       rect:
         serializedVersion: 2
         x: 620
@@ -522,14 +522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db5c9407397eb31d0800000000000000
-      internalID: -3369845275726592579
+      spriteID: 084ec1f1ac60067f0800000000000000
+      internalID: -621489283401980800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_3
+      name: chibi male revisi-02_3
       rect:
         serializedVersion: 2
         x: 641
@@ -544,14 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f029402b2ac2cc90800000000000000
-      internalID: -7150930971736858383
+      spriteID: 84dd8abeea9ca11d0800000000000000
+      internalID: -3379166817272931000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_4
+      name: chibi male revisi-02_4
       rect:
         serializedVersion: 2
         x: 701
@@ -566,14 +566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7ef817b886dfd1c0800000000000000
-      internalID: -4476623621907218819
+      spriteID: 2c00d6c756f1377e0800000000000000
+      internalID: -1769035707886796606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_5
+      name: chibi male revisi-02_5
       rect:
         serializedVersion: 2
         x: 740
@@ -588,14 +588,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa55f138b9680a5e0800000000000000
-      internalID: -1900371040272427601
+      spriteID: 55678167f6b1c8080800000000000000
+      internalID: -9183935374578649515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_6
+      name: chibi male revisi-02_6
       rect:
         serializedVersion: 2
         x: 779
@@ -610,14 +610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f305fe46747b0ecf0800000000000000
-      internalID: -224978464104558529
+      spriteID: 68bcc95a0c4e82560800000000000000
+      internalID: 7289327512962517894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_7
+      name: chibi male revisi-02_7
       rect:
         serializedVersion: 2
         x: 822
@@ -632,14 +632,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b3bd74e014803dd0800000000000000
-      internalID: -2508359784357579850
+      spriteID: 2f326a87443225b10800000000000000
+      internalID: 1968674764103230450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_8
+      name: chibi male revisi-02_8
       rect:
         serializedVersion: 2
         x: 859
@@ -654,14 +654,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a274e17c6d7f56980800000000000000
-      internalID: -8546152216029935830
+      spriteID: 1addc4998bf01a280800000000000000
+      internalID: -9033922092008153695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_9
+      name: chibi male revisi-02_9
       rect:
         serializedVersion: 2
         x: 903
@@ -676,14 +676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73dcbb289b8fc06d0800000000000000
-      internalID: -3022767774226461385
+      spriteID: 59547f76a9a819ca0800000000000000
+      internalID: -6011871631789046379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_10
+      name: chibi male revisi-02_10
       rect:
         serializedVersion: 2
         x: 939
@@ -698,14 +698,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 483cb31c67f6c3610800000000000000
-      internalID: 1602278123275797380
+      spriteID: 4ce7905c1642ec2d0800000000000000
+      internalID: -3256625478206128444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_11
+      name: chibi male revisi-02_11
       rect:
         serializedVersion: 2
         x: 978
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa76bc7000c4a1990800000000000000
-      internalID: -7414530273497618513
+      spriteID: 163897ba093a27a10800000000000000
+      internalID: 1905765434078626657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_12
+      name: chibi male revisi-02_12
       rect:
         serializedVersion: 2
         x: 1014
@@ -742,14 +742,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aab08fb6c593d64a0800000000000000
-      internalID: -6598554809916716118
+      spriteID: 691ce06d21e79f480800000000000000
+      internalID: -8864915772136308330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_13
+      name: chibi male revisi-02_13
       rect:
         serializedVersion: 2
         x: 1166
@@ -764,14 +764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65e9ad6258f4c7580800000000000000
-      internalID: -8828093736251908522
+      spriteID: caed2c3deda0bbeb0800000000000000
+      internalID: -4703153433706570068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_14
+      name: chibi male revisi-02_14
       rect:
         serializedVersion: 2
         x: 1201
@@ -786,14 +786,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 716c4cb68c4104d50800000000000000
-      internalID: 6719393495070852631
+      spriteID: 09099098f3af61e40800000000000000
+      internalID: 5626959935235002512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_15
+      name: chibi male revisi-02_15
       rect:
         serializedVersion: 2
         x: 203
@@ -808,14 +808,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc0e4bc0c8c73bf50800000000000000
-      internalID: 6895992395384807629
+      spriteID: 73fdaa09a1c458970800000000000000
+      internalID: 8756488727471775543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_16
+      name: chibi male revisi-02_16
       rect:
         serializedVersion: 2
         x: 324
@@ -830,14 +830,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3badc4c416b35f400800000000000000
-      internalID: 357257034523794099
+      spriteID: c58e3e070f422ee80800000000000000
+      internalID: -8150911760482441124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_17
+      name: chibi male revisi-02_17
       rect:
         serializedVersion: 2
         x: 333
@@ -852,14 +852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9236cc01d33519690800000000000000
-      internalID: -7597199574657375447
+      spriteID: 802b5e493109e9400800000000000000
+      internalID: 332861836248855048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_18
+      name: chibi male revisi-02_18
       rect:
         serializedVersion: 2
         x: 635
@@ -874,14 +874,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a345ed4873c80a920800000000000000
-      internalID: 2999551521909003322
+      spriteID: c7e31919bc833c760800000000000000
+      internalID: 7476882253336886908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_19
+      name: chibi male revisi-02_19
       rect:
         serializedVersion: 2
         x: 646
@@ -896,14 +896,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64def0eef9d36f610800000000000000
-      internalID: 1654577670208351558
+      spriteID: 857bf6725ef14c890800000000000000
+      internalID: -7438785615439612072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_20
+      name: chibi male revisi-02_20
       rect:
         serializedVersion: 2
         x: 674
@@ -918,14 +918,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41ec1853c1d4282a0800000000000000
-      internalID: -6736737309040718316
+      spriteID: b76ec5abf8778fe60800000000000000
+      internalID: 7996272597586994811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_21
+      name: chibi male revisi-02_21
       rect:
         serializedVersion: 2
         x: 1160
@@ -940,14 +940,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3b3e2091bf19b510800000000000000
-      internalID: 1565317192976579391
+      spriteID: 501573d105f7a9cb0800000000000000
+      internalID: -4856429266101382907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_22
+      name: chibi male revisi-02_22
       rect:
         serializedVersion: 2
         x: 1176
@@ -962,14 +962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f55b0d4a13ac7f180800000000000000
-      internalID: -9081567809001966241
+      spriteID: 1fd13b277f55ebc00800000000000000
+      internalID: 918265895299784177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_23
+      name: chibi male revisi-02_23
       rect:
         serializedVersion: 2
         x: 1211
@@ -984,14 +984,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f356fe3c7224d610800000000000000
-      internalID: 1644977680924693496
+      spriteID: 1b49a8d0eda4f6ca0800000000000000
+      internalID: -6021511859200682831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_24
+      name: chibi male revisi-02_24
       rect:
         serializedVersion: 2
         x: 1236
@@ -1006,14 +1006,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ecb37e2430b5b530800000000000000
-      internalID: 3870193192958934243
+      spriteID: 6ee3b0d39519bff30800000000000000
+      internalID: 4610438456006098662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_25
+      name: chibi male revisi-02_25
       rect:
         serializedVersion: 2
         x: 97
@@ -1028,14 +1028,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa1e9133a5620a8b0800000000000000
-      internalID: -5143068605610860113
+      spriteID: 0f14c497004040010800000000000000
+      internalID: 1154051804595241456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_26
+      name: chibi male revisi-02_26
       rect:
         serializedVersion: 2
         x: 137
@@ -1050,14 +1050,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7bf56fddf349b2d0800000000000000
-      internalID: -3262501697399424131
+      spriteID: c174e886ae6e63d10800000000000000
+      internalID: 2105123770293176092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_27
+      name: chibi male revisi-02_27
       rect:
         serializedVersion: 2
         x: 163
@@ -1072,14 +1072,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23f6199b71bdb65f0800000000000000
-      internalID: -762274816965120206
+      spriteID: f0ed0d888a6ac4920800000000000000
+      internalID: 2975936696565161487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_28
+      name: chibi male revisi-02_28
       rect:
         serializedVersion: 2
         x: 229
@@ -1094,14 +1094,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4efa4f7f0fb0b340800000000000000
-      internalID: 4877608469723283021
+      spriteID: 0c3575ac2dafc1a50800000000000000
+      internalID: 6493340546006209472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_29
+      name: chibi male revisi-02_29
       rect:
         serializedVersion: 2
         x: 252
@@ -1116,14 +1116,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f2f368495c0c6ec0800000000000000
-      internalID: -3572466826805513484
+      spriteID: e6581a6889310f6e0800000000000000
+      internalID: -1805921904760879762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_30
+      name: chibi male revisi-02_30
       rect:
         serializedVersion: 2
         x: 288
@@ -1138,14 +1138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3133ad753a4fe5c0800000000000000
-      internalID: -4184043935202332353
+      spriteID: a282fd74ae4fa7bc0800000000000000
+      internalID: -3784443249786148822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_31
+      name: chibi male revisi-02_31
       rect:
         serializedVersion: 2
         x: 324
@@ -1160,14 +1160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff59289f83a0c4e70800000000000000
-      internalID: 9100660186829460991
+      spriteID: e9dde17309d74e4b0800000000000000
+      internalID: -5412062793838961250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_32
+      name: chibi male revisi-02_32
       rect:
         serializedVersion: 2
         x: 350
@@ -1182,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b3af11ad1e47d390800000000000000
-      internalID: -7793674740977130575
+      spriteID: 1f7d31401eb7bb250800000000000000
+      internalID: 5961494738121250801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_33
+      name: chibi male revisi-02_33
       rect:
         serializedVersion: 2
         x: 375
@@ -1204,14 +1204,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7e7005e93032cf30800000000000000
-      internalID: 4594287595084611196
+      spriteID: 3f704b4a3d341ea10800000000000000
+      internalID: 1936903891026446323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_34
+      name: chibi male revisi-02_34
       rect:
         serializedVersion: 2
         x: 635
@@ -1226,14 +1226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2812d7e9b1cbcd20800000000000000
-      internalID: 3299944156181436458
+      spriteID: 22b94850284dcf1f0800000000000000
+      internalID: -1009698561534420190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_35
+      name: chibi male revisi-02_35
       rect:
         serializedVersion: 2
         x: 685
@@ -1248,14 +1248,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5422fa962387c32e0800000000000000
-      internalID: -2144707164618415547
+      spriteID: 5bc15895fd7291d30800000000000000
+      internalID: 4402593950964456629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_36
+      name: chibi male revisi-02_36
       rect:
         serializedVersion: 2
         x: 573
@@ -1270,14 +1270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1b4959891aa4c880800000000000000
-      internalID: -8591555162460828902
+      spriteID: 030316f6120f514a0800000000000000
+      internalID: -6623123650585219024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_37
+      name: chibi male revisi-02_37
       rect:
         serializedVersion: 2
         x: 729
@@ -1292,14 +1292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c457f428b23b0970800000000000000
-      internalID: 8722120869808657607
+      spriteID: 55cacd2e03c77e3a0800000000000000
+      internalID: -6636198976500749227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_38
+      name: chibi male revisi-02_38
       rect:
         serializedVersion: 2
         x: 196
@@ -1314,14 +1314,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2daae5963002b5980800000000000000
-      internalID: -8549204268607952174
+      spriteID: e6f92a00436322d20800000000000000
+      internalID: 3252221477891776366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_39
+      name: chibi male revisi-02_39
       rect:
         serializedVersion: 2
         x: 518
@@ -1336,14 +1336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c58367ecff78b2a0800000000000000
-      internalID: -6721481719659919932
+      spriteID: f5bf202f9c87db9f0800000000000000
+      internalID: -451071578923140257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_40
+      name: chibi male revisi-02_40
       rect:
         serializedVersion: 2
         x: 667
@@ -1358,14 +1358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ee97ac645fc90390800000000000000
-      internalID: -7851516513836622110
+      spriteID: 44194c163b90570a0800000000000000
+      internalID: -6884585789321866940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_41
+      name: chibi male revisi-02_41
       rect:
         serializedVersion: 2
         x: 999
@@ -1380,14 +1380,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d043781ccfc8a8ed0800000000000000
-      internalID: -2410959633296968691
+      spriteID: c1db31129602758a0800000000000000
+      internalID: -6316544316465234660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_42
+      name: chibi male revisi-02_42
       rect:
         serializedVersion: 2
         x: 1148
@@ -1402,14 +1402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c5cf981c1a85bd10800000000000000
-      internalID: 2140769051161380297
+      spriteID: 9969e58b4d2eade50800000000000000
+      internalID: 6835024787742299801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_43
+      name: chibi male revisi-02_43
       rect:
         serializedVersion: 2
         x: 1294
@@ -1424,14 +1424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21e080f8bd7ec5a00800000000000000
-      internalID: 746726568420183570
+      spriteID: deb64dac7bcb7e240800000000000000
+      internalID: 4821029423691361261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_44
+      name: chibi male revisi-02_44
       rect:
         serializedVersion: 2
         x: 191
@@ -1446,14 +1446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3c70c1c3315cf0c0800000000000000
-      internalID: -4540665041560503237
+      spriteID: 1eb19f076c8db71d0800000000000000
+      internalID: -3351847150836704287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_45
+      name: chibi male revisi-02_45
       rect:
         serializedVersion: 2
         x: 519
@@ -1468,14 +1468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df23092f07a007730800000000000000
-      internalID: 3994704349699781373
+      spriteID: e0cd9173c34b41710800000000000000
+      internalID: 1663152333122034702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_46
+      name: chibi male revisi-02_46
       rect:
         serializedVersion: 2
         x: 668
@@ -1490,14 +1490,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a07aeefa46d62940800000000000000
-      internalID: 5271136031476445344
+      spriteID: 4eca3cdf7ed8a48a0800000000000000
+      internalID: -6320083099526648604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_47
+      name: chibi male revisi-02_47
       rect:
         serializedVersion: 2
         x: 1003
@@ -1512,14 +1512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a69ce0cf2a6b679f0800000000000000
-      internalID: -470988299883853462
+      spriteID: 744fd0c01471170c0800000000000000
+      internalID: -4579853777916529593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_48
+      name: chibi male revisi-02_48
       rect:
         serializedVersion: 2
         x: 1151
@@ -1534,14 +1534,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42f0d97b11242d460800000000000000
-      internalID: 7264941792764432164
+      spriteID: 57a0ff848f511be10800000000000000
+      internalID: 2211573048136370805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_49
+      name: chibi male revisi-02_49
       rect:
         serializedVersion: 2
         x: 1295
@@ -1556,14 +1556,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 972847dc51a2f04f0800000000000000
-      internalID: -860422730674830727
+      spriteID: 323c9371885161770800000000000000
+      internalID: 8581069814250455843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_50
+      name: chibi male revisi-02_50
       rect:
         serializedVersion: 2
         x: 197
@@ -1578,14 +1578,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04377110b5c573820800000000000000
-      internalID: 2897886431166296896
+      spriteID: ffa3748a9408ccc00800000000000000
+      internalID: 922253077548317439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_51
+      name: chibi male revisi-02_51
       rect:
         serializedVersion: 2
         x: 514
@@ -1600,14 +1600,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a23f6a2d53a8fa40800000000000000
-      internalID: 5402247373570126505
+      spriteID: c7f1b4dfe720072c0800000000000000
+      internalID: -4436042888521244804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_52
+      name: chibi male revisi-02_52
       rect:
         serializedVersion: 2
         x: 670
@@ -1622,14 +1622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a4d4739ae3bd46c0800000000000000
-      internalID: -4157469060915473248
+      spriteID: 92ccfce1cc820b140800000000000000
+      internalID: 4733328065521765417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_53
+      name: chibi male revisi-02_53
       rect:
         serializedVersion: 2
         x: 1003
@@ -1644,14 +1644,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f41a1f4ab3dfc8800800000000000000
-      internalID: 616145681655112015
+      spriteID: 23dcccf658c452b20800000000000000
+      internalID: 3108975253759249714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_54
+      name: chibi male revisi-02_54
       rect:
         serializedVersion: 2
         x: 1152
@@ -1666,14 +1666,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b3b4ead0aa0f3250800000000000000
-      internalID: 5926467320626328500
+      spriteID: 9948d8824a61ca500800000000000000
+      internalID: 408726560494683289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_55
+      name: chibi male revisi-02_55
       rect:
         serializedVersion: 2
         x: 1299
@@ -1688,14 +1688,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 450236c58d73f6420800000000000000
-      internalID: 2625378510182752340
+      spriteID: ca219415687415b40800000000000000
+      internalID: 5427197668173091500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_56
+      name: chibi male revisi-02_56
       rect:
         serializedVersion: 2
         x: 200
@@ -1710,14 +1710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60ba338a19c7a3e60800000000000000
-      internalID: 7942797857855351558
+      spriteID: 09d9e8df6e5223dc0800000000000000
+      internalID: -3660821873072104048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_57
+      name: chibi male revisi-02_57
       rect:
         serializedVersion: 2
         x: 519
@@ -1732,14 +1732,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d4c59da729bbc150800000000000000
-      internalID: 5894008117411562709
+      spriteID: 0d0e17364be561c40800000000000000
+      internalID: 5482673725225689296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_58
+      name: chibi male revisi-02_58
       rect:
         serializedVersion: 2
         x: 681
@@ -1754,14 +1754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6520c29e751cb280800000000000000
-      internalID: -9026315919785187989
+      spriteID: 33e3a8f4d770df790800000000000000
+      internalID: -7494825970087870925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_59
+      name: chibi male revisi-02_59
       rect:
         serializedVersion: 2
         x: 1013
@@ -1776,14 +1776,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7641582d5c9b340f0800000000000000
-      internalID: -1133858421875600281
+      spriteID: e690658e256b38c80800000000000000
+      internalID: -8321607219249018514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_60
+      name: chibi male revisi-02_60
       rect:
         serializedVersion: 2
         x: 1163
@@ -1798,14 +1798,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9799e1739cb638880800000000000000
-      internalID: -8609919550644905607
+      spriteID: 012f14dce98d64380800000000000000
+      internalID: -8987257829811162608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_61
+      name: chibi male revisi-02_61
       rect:
         serializedVersion: 2
         x: 1308
@@ -1820,14 +1820,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 120d8331ca7a3bb20800000000000000
-      internalID: 3149044921960812577
+      spriteID: d61967a86ec167110800000000000000
+      internalID: 1258224922387714413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_62
+      name: chibi male revisi-02_62
       rect:
         serializedVersion: 2
         x: 202
@@ -1842,14 +1842,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02603ca56de23f5b0800000000000000
-      internalID: -5335869635323296224
+      spriteID: b50dec46bdf149a40800000000000000
+      internalID: 5373955282509418587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_63
+      name: chibi male revisi-02_63
       rect:
         serializedVersion: 2
         x: 638
@@ -1864,14 +1864,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7a5ed5bc03c78c70800000000000000
-      internalID: 8973355241917274746
+      spriteID: 478a705e99333a890800000000000000
+      internalID: -7448052622675171212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_64
+      name: chibi male revisi-02_64
       rect:
         serializedVersion: 2
         x: 648
@@ -1886,14 +1886,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65b6d48a30a746000800000000000000
-      internalID: 28281653798202198
+      spriteID: eab27d3eb43438b40800000000000000
+      internalID: 5441266768017828782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_65
+      name: chibi male revisi-02_65
       rect:
         serializedVersion: 2
         x: 677
@@ -1908,14 +1908,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 476c7daf03e02c640800000000000000
-      internalID: 5098653331666486900
+      spriteID: f60862eb9086edf50800000000000000
+      internalID: 6908073269487108207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_66
+      name: chibi male revisi-02_66
       rect:
         serializedVersion: 2
         x: 638
@@ -1930,14 +1930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a0f35eeff010df80800000000000000
-      internalID: -8083942639728856924
+      spriteID: 14581264713676910800000000000000
+      internalID: 1830540725161395521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_67
+      name: chibi male revisi-02_67
       rect:
         serializedVersion: 2
         x: 687
@@ -1952,14 +1952,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5476c513634d4a970800000000000000
-      internalID: 8765364103991289669
+      spriteID: 0a7a8df497e97aed0800000000000000
+      internalID: -2402777632311040096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_68
+      name: chibi male revisi-02_68
       rect:
         serializedVersion: 2
         x: 1009
@@ -1974,14 +1974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da074a4a1f177c600800000000000000
-      internalID: 488484367256285357
+      spriteID: 87b4cb4ad2ae67bf0800000000000000
+      internalID: -326816441179550856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_69
+      name: chibi male revisi-02_69
       rect:
         serializedVersion: 2
         x: 1044
@@ -1996,14 +1996,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1b52b231c9a7a250800000000000000
-      internalID: 5955915679465102111
+      spriteID: db1ae70e11c99b3f0800000000000000
+      internalID: -884504251206819395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_70
+      name: chibi male revisi-02_70
       rect:
         serializedVersion: 2
         x: 1222
@@ -2018,14 +2018,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50e1fcb4da17289c0800000000000000
-      internalID: -3926450935998505467
+      spriteID: 484137d83666c1a60800000000000000
+      internalID: 7646098845129184388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_71
+      name: chibi male revisi-02_71
       rect:
         serializedVersion: 2
         x: 1343
@@ -2040,14 +2040,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6cc95676c820de6c0800000000000000
-      internalID: -4112628082666005306
+      spriteID: 28f19efd3c57ce160800000000000000
+      internalID: 7056144200318394242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_72
+      name: chibi male revisi-02_72
       rect:
         serializedVersion: 2
         x: 1352
@@ -2062,14 +2062,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05743f30decc55de0800000000000000
-      internalID: -1344943595354634416
+      spriteID: ef5747e2662bb8310800000000000000
+      internalID: 1408415460419204606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_73
+      name: chibi male revisi-02_73
       rect:
         serializedVersion: 2
         x: 1003
@@ -2084,14 +2084,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21d205259269fea20800000000000000
-      internalID: 3093856573245631762
+      spriteID: 2465f83fee6a8f1e0800000000000000
+      internalID: -2163796075732838846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_74
+      name: chibi male revisi-02_74
       rect:
         serializedVersion: 2
         x: 1018
@@ -2106,14 +2106,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4b6d3aef093c40b0800000000000000
-      internalID: -5743152684287038644
+      spriteID: e19c93a9d923d4330800000000000000
+      internalID: 3696666521619777822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_75
+      name: chibi male revisi-02_75
       rect:
         serializedVersion: 2
         x: 1053
@@ -2128,14 +2128,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ed49ba0fbb0ea650800000000000000
-      internalID: 6245942648356031968
+      spriteID: fbc910c02ca394a90800000000000000
+      internalID: -7329262313469272897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_76
+      name: chibi male revisi-02_76
       rect:
         serializedVersion: 2
         x: 1079
@@ -2150,14 +2150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1b5740e3b5b540f0800000000000000
-      internalID: -1133299947047265508
+      spriteID: df2b35a086b22bd20800000000000000
+      internalID: 3292742003411104509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_77
+      name: chibi male revisi-02_77
       rect:
         serializedVersion: 2
         x: 1116
@@ -2172,14 +2172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 088a618c79cfabee0800000000000000
-      internalID: -1244404618187331456
+      spriteID: 316315c8b62aeda50800000000000000
+      internalID: 6547849491042612755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_78
+      name: chibi male revisi-02_78
       rect:
         serializedVersion: 2
         x: 1156
@@ -2194,14 +2194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec0d05c09b36fd990800000000000000
-      internalID: -7359053619673378610
+      spriteID: df74be5714042ecc0800000000000000
+      internalID: -3683310895340238851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_79
+      name: chibi male revisi-02_79
       rect:
         serializedVersion: 2
         x: 1182
@@ -2216,14 +2216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be5f006b339369120800000000000000
-      internalID: 2420184744017851883
+      spriteID: 3407de4b028797960800000000000000
+      internalID: 7600237928034168899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_80
+      name: chibi male revisi-02_80
       rect:
         serializedVersion: 2
         x: 1248
@@ -2238,14 +2238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a583cbb311545330800000000000000
-      internalID: 3698670339174401444
+      spriteID: ed6c7fa877f0ba1d0800000000000000
+      internalID: -3338557692658071842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_81
+      name: chibi male revisi-02_81
       rect:
         serializedVersion: 2
         x: 1271
@@ -2260,14 +2260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39b06262c88004f80800000000000000
-      internalID: -8124484329747903597
+      spriteID: 5f0e8c03837172710800000000000000
+      internalID: 1668327717068136693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_82
+      name: chibi male revisi-02_82
       rect:
         serializedVersion: 2
         x: 1307
@@ -2282,14 +2282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 873ef0cc49ecfddb0800000000000000
-      internalID: -4764862742260620424
+      spriteID: 0a90279a1e8ac14a0800000000000000
+      internalID: -6621231664977540704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_83
+      name: chibi male revisi-02_83
       rect:
         serializedVersion: 2
         x: 1343
@@ -2304,14 +2304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf032941d68619b00800000000000000
-      internalID: 833562223746101499
+      spriteID: d80073423b53526b0800000000000000
+      internalID: -5321788341145370483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_84
+      name: chibi male revisi-02_84
       rect:
         serializedVersion: 2
         x: 1369
@@ -2326,14 +2326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8680c4ecfb48d0f0800000000000000
-      internalID: -1092039360095680881
+      spriteID: b9e9b73e97f6b5030800000000000000
+      internalID: 3484501305999466139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_85
+      name: chibi male revisi-02_85
       rect:
         serializedVersion: 2
         x: 1395
@@ -2348,14 +2348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67a63dbae97f7cb50800000000000000
-      internalID: 6613526838676515446
+      spriteID: c800c6cf06c912de0800000000000000
+      internalID: -1359633672123449204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_86
+      name: chibi male revisi-02_86
       rect:
         serializedVersion: 2
         x: 575
@@ -2370,14 +2370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ad85683caf239b10800000000000000
-      internalID: 1986984277327580579
+      spriteID: 6614cec1df9d81cc0800000000000000
+      internalID: -3739999809395998362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_87
+      name: chibi male revisi-02_87
       rect:
         serializedVersion: 2
         x: 732
@@ -2392,14 +2392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82d8fc9cc0efe6e80800000000000000
-      internalID: -8183324142006727384
+      spriteID: acfebd3d3d56ae210800000000000000
+      internalID: 1363013797699907530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_88
+      name: chibi male revisi-02_88
       rect:
         serializedVersion: 2
         x: 199
@@ -2414,14 +2414,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f31c0d69ee9da8080800000000000000
-      internalID: -9184288871312998081
+      spriteID: 4eaa3fc1912d52760800000000000000
+      internalID: 7432577765346618084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_89
+      name: chibi male revisi-02_89
       rect:
         serializedVersion: 2
         x: 529
@@ -2436,14 +2436,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3873f13c25e2d9810800000000000000
-      internalID: 1773624761249642371
+      spriteID: ec181af46f7802ad0800000000000000
+      internalID: -2729031882218831410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_90
+      name: chibi male revisi-02_90
       rect:
         serializedVersion: 2
         x: 678
@@ -2458,14 +2458,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b40dc37ae7acf1910800000000000000
-      internalID: 1810388220546699339
+      spriteID: ccedbd184e56ed1a0800000000000000
+      internalID: -6782871956667769140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_91
+      name: chibi male revisi-02_91
       rect:
         serializedVersion: 2
         x: 1006
@@ -2480,14 +2480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3a3121ee217d5810800000000000000
-      internalID: 1755683875903846975
+      spriteID: 36ddc8934a9eed2c0800000000000000
+      internalID: -4404826493972325021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_92
+      name: chibi male revisi-02_92
       rect:
         serializedVersion: 2
         x: 1156
@@ -2502,14 +2502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f1b4ca77b6572790800000000000000
-      internalID: -7554974503852002828
+      spriteID: 84f61551dde4088c0800000000000000
+      internalID: -3999109757652603064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_93
+      name: chibi male revisi-02_93
       rect:
         serializedVersion: 2
         x: 1302
@@ -2524,14 +2524,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06d4cf5a09dd8f9c0800000000000000
-      internalID: -3893118264531989152
+      spriteID: d545c355e971cea50800000000000000
+      internalID: 6551637526719517789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_94
+      name: chibi male revisi-02_94
       rect:
         serializedVersion: 2
         x: 527
@@ -2546,14 +2546,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 77d364c06e8b96de0800000000000000
-      internalID: -1339336115978093193
+      spriteID: daf70eaa522ccdb30800000000000000
+      internalID: 4313536010150510509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_95
+      name: chibi male revisi-02_95
       rect:
         serializedVersion: 2
         x: 675
@@ -2568,14 +2568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69693f83839252c70800000000000000
-      internalID: 8945601556291753622
+      spriteID: 0e8368d727140a3f0800000000000000
+      internalID: -891640766231332640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_96
+      name: chibi male revisi-02_96
       rect:
         serializedVersion: 2
         x: 1006
@@ -2590,14 +2590,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a51355c87967d280800000000000000
-      internalID: -9018623761358580319
+      spriteID: 453a5d94900f66a40800000000000000
+      internalID: 5361236329115263828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_97
+      name: chibi male revisi-02_97
       rect:
         serializedVersion: 2
         x: 1154
@@ -2612,14 +2612,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b084cb1725ad15f50800000000000000
-      internalID: 6868510954347055115
+      spriteID: d964055d5dc8a2350800000000000000
+      internalID: 5992757104204596893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_98
+      name: chibi male revisi-02_98
       rect:
         serializedVersion: 2
         x: 1298
@@ -2634,14 +2634,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff43bbafc3c5bf390800000000000000
-      internalID: -7783526114005404417
+      spriteID: 0430137c7a7b79580800000000000000
+      internalID: -8820379413952527552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_99
+      name: chibi male revisi-02_99
       rect:
         serializedVersion: 2
         x: 529
@@ -2656,14 +2656,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 566ccb4ad4628cb50800000000000000
-      internalID: 6613578167711745637
+      spriteID: 94944cb79160b9060800000000000000
+      internalID: 6961164355551643977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_100
+      name: chibi male revisi-02_100
       rect:
         serializedVersion: 2
         x: 682
@@ -2678,14 +2678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35c7dd53eed971f60800000000000000
-      internalID: 8005040509105830995
+      spriteID: fbcd2eff6baacd720800000000000000
+      internalID: 2872358365309361343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_101
+      name: chibi male revisi-02_101
       rect:
         serializedVersion: 2
         x: 994
@@ -2700,14 +2700,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4168dabe1b781cee0800000000000000
-      internalID: -1242562823944567276
+      spriteID: f3bba8e1d1bf268c0800000000000000
+      internalID: -4007364615921288385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_102
+      name: chibi male revisi-02_102
       rect:
         serializedVersion: 2
         x: 1153
@@ -2722,14 +2722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67498866ba99d4870800000000000000
-      internalID: 8668753819196757110
+      spriteID: 57ff17856d75d8b50800000000000000
+      internalID: 6597025607286128501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_103
+      name: chibi male revisi-02_103
       rect:
         serializedVersion: 2
         x: 1308
@@ -2744,14 +2744,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6febddce35e05c7f0800000000000000
-      internalID: -593052022310322442
+      spriteID: bd0cfd7d553e1f010800000000000000
+      internalID: 1221006931827605723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_104
+      name: chibi male revisi-02_104
       rect:
         serializedVersion: 2
         x: 535
@@ -2766,14 +2766,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5de1369fa431667b0800000000000000
-      internalID: -5231472704411722027
+      spriteID: 93c4d727743af2150800000000000000
+      internalID: 5850073968236383289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_105
+      name: chibi male revisi-02_105
       rect:
         serializedVersion: 2
         x: 686
@@ -2788,14 +2788,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eb1a6f52cbe80e80800000000000000
-      internalID: -8212054700453127194
+      spriteID: 1245fe1874d002510800000000000000
+      internalID: 1522231274825012257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_106
+      name: chibi male revisi-02_106
       rect:
         serializedVersion: 2
         x: 1001
@@ -2810,14 +2810,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7cf9f2b4e1cd3c80800000000000000
-      internalID: -8341297746820858755
+      spriteID: ec585a0f8732360b0800000000000000
+      internalID: -5736702497999452722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_107
+      name: chibi male revisi-02_107
       rect:
         serializedVersion: 2
         x: 1153
@@ -2832,14 +2832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02939abe4010706d0800000000000000
-      internalID: -3024447504110765792
+      spriteID: 19dc9ddb379809f30800000000000000
+      internalID: 4580311951235206545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chibi male revisi-01_108
+      name: chibi male revisi-02_108
       rect:
         serializedVersion: 2
         x: 1298
@@ -2854,8 +2854,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f438b2e08ce307930800000000000000
-      internalID: 4138877086505599823
+      spriteID: abad03126d72b2210800000000000000
+      internalID: 1309183917314595514
       vertices: []
       indices: 
       edges: []
@@ -2873,116 +2873,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      chibi male revisi-01_0: 9194101588010504163
-      chibi male revisi-01_1: -7513954833031818146
-      chibi male revisi-01_10: 1602278123275797380
-      chibi male revisi-01_100: 8005040509105830995
-      chibi male revisi-01_101: -1242562823944567276
-      chibi male revisi-01_102: 8668753819196757110
-      chibi male revisi-01_103: -593052022310322442
-      chibi male revisi-01_104: -5231472704411722027
-      chibi male revisi-01_105: -8212054700453127194
-      chibi male revisi-01_106: -8341297746820858755
-      chibi male revisi-01_107: -3024447504110765792
-      chibi male revisi-01_108: 4138877086505599823
-      chibi male revisi-01_11: -7414530273497618513
-      chibi male revisi-01_12: -6598554809916716118
-      chibi male revisi-01_13: -8828093736251908522
-      chibi male revisi-01_14: 6719393495070852631
-      chibi male revisi-01_15: 6895992395384807629
-      chibi male revisi-01_16: 357257034523794099
-      chibi male revisi-01_17: -7597199574657375447
-      chibi male revisi-01_18: 2999551521909003322
-      chibi male revisi-01_19: 1654577670208351558
-      chibi male revisi-01_2: -3369845275726592579
-      chibi male revisi-01_20: -6736737309040718316
-      chibi male revisi-01_21: 1565317192976579391
-      chibi male revisi-01_22: -9081567809001966241
-      chibi male revisi-01_23: 1644977680924693496
-      chibi male revisi-01_24: 3870193192958934243
-      chibi male revisi-01_25: -5143068605610860113
-      chibi male revisi-01_26: -3262501697399424131
-      chibi male revisi-01_27: -762274816965120206
-      chibi male revisi-01_28: 4877608469723283021
-      chibi male revisi-01_29: -3572466826805513484
-      chibi male revisi-01_3: -7150930971736858383
-      chibi male revisi-01_30: -4184043935202332353
-      chibi male revisi-01_31: 9100660186829460991
-      chibi male revisi-01_32: -7793674740977130575
-      chibi male revisi-01_33: 4594287595084611196
-      chibi male revisi-01_34: 3299944156181436458
-      chibi male revisi-01_35: -2144707164618415547
-      chibi male revisi-01_36: -8591555162460828902
-      chibi male revisi-01_37: 8722120869808657607
-      chibi male revisi-01_38: -8549204268607952174
-      chibi male revisi-01_39: -6721481719659919932
-      chibi male revisi-01_4: -4476623621907218819
-      chibi male revisi-01_40: -7851516513836622110
-      chibi male revisi-01_41: -2410959633296968691
-      chibi male revisi-01_42: 2140769051161380297
-      chibi male revisi-01_43: 746726568420183570
-      chibi male revisi-01_44: -4540665041560503237
-      chibi male revisi-01_45: 3994704349699781373
-      chibi male revisi-01_46: 5271136031476445344
-      chibi male revisi-01_47: -470988299883853462
-      chibi male revisi-01_48: 7264941792764432164
-      chibi male revisi-01_49: -860422730674830727
-      chibi male revisi-01_5: -1900371040272427601
-      chibi male revisi-01_50: 2897886431166296896
-      chibi male revisi-01_51: 5402247373570126505
-      chibi male revisi-01_52: -4157469060915473248
-      chibi male revisi-01_53: 616145681655112015
-      chibi male revisi-01_54: 5926467320626328500
-      chibi male revisi-01_55: 2625378510182752340
-      chibi male revisi-01_56: 7942797857855351558
-      chibi male revisi-01_57: 5894008117411562709
-      chibi male revisi-01_58: -9026315919785187989
-      chibi male revisi-01_59: -1133858421875600281
-      chibi male revisi-01_6: -224978464104558529
-      chibi male revisi-01_60: -8609919550644905607
-      chibi male revisi-01_61: 3149044921960812577
-      chibi male revisi-01_62: -5335869635323296224
-      chibi male revisi-01_63: 8973355241917274746
-      chibi male revisi-01_64: 28281653798202198
-      chibi male revisi-01_65: 5098653331666486900
-      chibi male revisi-01_66: -8083942639728856924
-      chibi male revisi-01_67: 8765364103991289669
-      chibi male revisi-01_68: 488484367256285357
-      chibi male revisi-01_69: 5955915679465102111
-      chibi male revisi-01_7: -2508359784357579850
-      chibi male revisi-01_70: -3926450935998505467
-      chibi male revisi-01_71: -4112628082666005306
-      chibi male revisi-01_72: -1344943595354634416
-      chibi male revisi-01_73: 3093856573245631762
-      chibi male revisi-01_74: -5743152684287038644
-      chibi male revisi-01_75: 6245942648356031968
-      chibi male revisi-01_76: -1133299947047265508
-      chibi male revisi-01_77: -1244404618187331456
-      chibi male revisi-01_78: -7359053619673378610
-      chibi male revisi-01_79: 2420184744017851883
-      chibi male revisi-01_8: -8546152216029935830
-      chibi male revisi-01_80: 3698670339174401444
-      chibi male revisi-01_81: -8124484329747903597
-      chibi male revisi-01_82: -4764862742260620424
-      chibi male revisi-01_83: 833562223746101499
-      chibi male revisi-01_84: -1092039360095680881
-      chibi male revisi-01_85: 6613526838676515446
-      chibi male revisi-01_86: 1986984277327580579
-      chibi male revisi-01_87: -8183324142006727384
-      chibi male revisi-01_88: -9184288871312998081
-      chibi male revisi-01_89: 1773624761249642371
-      chibi male revisi-01_9: -3022767774226461385
-      chibi male revisi-01_90: 1810388220546699339
-      chibi male revisi-01_91: 1755683875903846975
-      chibi male revisi-01_92: -7554974503852002828
-      chibi male revisi-01_93: -3893118264531989152
-      chibi male revisi-01_94: -1339336115978093193
-      chibi male revisi-01_95: 8945601556291753622
-      chibi male revisi-01_96: -9018623761358580319
-      chibi male revisi-01_97: 6868510954347055115
-      chibi male revisi-01_98: -7783526114005404417
-      chibi male revisi-01_99: 6613578167711745637
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
