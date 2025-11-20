@@ -1,4 +1,4 @@
-namespace Anoa
+﻿namespace Anoa
 {
     public enum TRASH_TYPE
     {

@@ -1,100 +1,64 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Anoa
+
+public class TrashManager : MonoBehaviour
 {
-    public class TrashManager : MonoBehaviour
+    public GameObject[] arrPrefabSampahSorting; // 24 prefab
+
+    private List<GameObject> listSampahSorting = new List<GameObject>();
+
+    [Header("Area Spawn Acak")]
+    [SerializeField] private float minX = -3f;
+    [SerializeField] private float maxX = 3f;
+    [SerializeField] private float minY = -2f;
+    [SerializeField] private float maxY = 2f;
+
+    private void Start()
     {
-        [Header("Spawn Prefab Pool")]
-        [SerializeField] protected PoolModule poolModule;
+        SpawnTrashByCollectedID();
+    }
 
-        [Header("Spawn Points")]
-        [SerializeField] protected Transform[] arrTransformLokasiSpawn;
+    private void SpawnTrashByCollectedID()
+    {
+        foreach (Transform child in transform)
+            Destroy(child.gameObject);
 
-        [Header("Pengaturan")]
-        [SerializeField] protected int intMaxSampahAktif = 10;
+        listSampahSorting.Clear();
 
-        protected List<GameObject> listObjAktif = new List<GameObject>();
-        protected List<Transform> listSpawnTerpakai = new List<Transform>();
-
-        private void Start()
+        foreach (int id in CollectedTrashData.listTrashID)
         {
-            FunctionFillToMax();
-        }
-
-        public void FunctionFillToMax()
-        {
-            int jumlahKurang = intMaxSampahAktif - listObjAktif.Count;
-            for (int i = 0; i < jumlahKurang; i++)
+            if (id < 0 || id >= arrPrefabSampahSorting.Length)
             {
-                FunctionSpawnOne();
-            }
-        }
-
-        public bool IsAllCleared()
-        {
-            return listObjAktif == null || listObjAktif.Count == 0;
-        }
-
-        protected void FunctionSpawnOne()
-        {
-            if (poolModule == null || arrTransformLokasiSpawn.Length == 0) return;
-
-            List<GameObject> listPrefab = poolModule.GetListObjPrefabs();
-            if (listPrefab.Count == 0) return;
-
-            GameObject _prefab = listPrefab[Random.Range(0, listPrefab.Count)];
-            GameObject _obj = poolModule.FunctionGetFromPool(_prefab);
-            if (_obj == null) return;
-
-            Transform _spawn = FunctionGetSpawnKosong();
-            if (_spawn == null)
-            {
-                poolModule.FunctionReturnToPool(_obj);
-                return;
+                Debug.LogError("ID sampah tidak valid: " + id);
+                continue;
             }
 
-            _obj.transform.position = _spawn.position;
-            _obj.transform.rotation = Quaternion.identity;
-            _obj.transform.SetParent(null);
+            GameObject prefab = arrPrefabSampahSorting[id];
 
-            listObjAktif.Add(_obj);
-            listSpawnTerpakai.Add(_spawn);
+            // 🎯 POSISI RANDOM PAKAI MIN/MAX
+            Vector3 posisiSpawn =
+                new Vector3(
+                    Random.Range(minX, maxX),
+                    Random.Range(minY, maxY),
+                    0f
+                );
+
+            // Jadi relatif terhadap posisi parent
+            posisiSpawn += transform.position;
+
+            GameObject obj = Instantiate(prefab, posisiSpawn, Quaternion.identity, transform);
+            listSampahSorting.Add(obj);
         }
+    }
+    public bool IsAllCleared()
+    {
+        return listSampahSorting.TrueForAll(o => o == null);
+    }
 
-        protected Transform FunctionGetSpawnKosong()
-        {
-            List<Transform> _tersedia = new List<Transform>();
-            foreach (Transform _t in arrTransformLokasiSpawn)
-            {
-                if (!listSpawnTerpakai.Contains(_t))
-                    _tersedia.Add(_t);
-            }
-
-            if (_tersedia.Count == 0) return null;
-            return _tersedia[Random.Range(0, _tersedia.Count)];
-        }
-
-        public void FunctionOnTrashProcessed(GameObject _obj)
-        {
-            if (listObjAktif.Contains(_obj))
-                listObjAktif.Remove(_obj);
-
-            poolModule.FunctionReturnToPool(_obj);
-
-            // hapus spawn point yang dipakai
-            foreach (Transform _t in arrTransformLokasiSpawn)
-            {
-                if (Vector2.Distance(_t.position, _obj.transform.position) < 0.1f)
-                {
-                    listSpawnTerpakai.Remove(_t);
-                    break;
-                }
-            }
-
-            // Spawn ulang hanya jika belum capai batas total pool
-            if (listObjAktif.Count < intMaxSampahAktif && poolModule.HasAvailableObject())
-                FunctionFillToMax();
-        }
+    public void FunctionOnTrashProcessed(GameObject sampah)
+    {
+        if (listSampahSorting.Contains(sampah))
+            listSampahSorting.Remove(sampah);
     }
 }

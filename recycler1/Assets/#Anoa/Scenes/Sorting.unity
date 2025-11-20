@@ -4761,19 +4761,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f35707e5dca09b142b5fac6ad468682a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  poolModule: {fileID: 1273613783}
-  arrTransformLokasiSpawn:
-  - {fileID: 1564972444}
-  - {fileID: 131531063}
-  - {fileID: 1280952282}
-  - {fileID: 1200508067}
-  - {fileID: 175773194}
-  - {fileID: 2014739055}
-  - {fileID: 476248022}
-  - {fileID: 590201495}
-  - {fileID: 1131818249}
-  - {fileID: 1847678506}
-  intMaxSampahAktif: 10
+  arrPrefabSampahSorting:
+  - {fileID: 5898556455538101814, guid: 69674b26d4892bb4f9add8b3489a0240, type: 3}
+  - {fileID: 8476901735451766536, guid: 6397e81f022d69f43b6e3f56681965cb, type: 3}
+  - {fileID: 3982975235006220830, guid: b58cd5a94ad9ab04aab5bde2f5f9ef75, type: 3}
+  - {fileID: 5860439012906227744, guid: ac88e692b0aff5e4fb24f29fa4197bb1, type: 3}
+  - {fileID: 3554846138571600311, guid: 1946e0fb476d65c459a97f784b8cfd57, type: 3}
+  - {fileID: 8153477139521984773, guid: acd3b56cdb97a9b4da8c0703a51f2187, type: 3}
+  - {fileID: 2161695118984962801, guid: 8db772c70e20735488d3e1ae1a7210a5, type: 3}
+  - {fileID: 3805444309078546421, guid: 64f050bbc074ac74b86eeea77650141f, type: 3}
+  - {fileID: 6906408803550301316, guid: c6268ca7ad09a3f4989b3e20694311c8, type: 3}
+  - {fileID: 3380251088757249449, guid: c88e73eee9532f74e934eee6fac8be94, type: 3}
+  - {fileID: 2402949246965285223, guid: 67fcd1892c03be94a84334e547943c2f, type: 3}
+  - {fileID: 8064935846443296109, guid: 6d4e61bc03ff4d149896618491d0d444, type: 3}
+  - {fileID: 6271179607774111688, guid: 85b5b5acd63dabb408fb964daa36a6a3, type: 3}
+  - {fileID: 4380719217996707884, guid: 76b5e69320b537a44ad3938fbe2481de, type: 3}
+  - {fileID: 2499405815929533591, guid: 0f0aceaad2759224db173d20d6834501, type: 3}
+  - {fileID: 831060175057800188, guid: 1d675202172486743a795b9380de0f16, type: 3}
+  - {fileID: 6803963891966159730, guid: 57c37fdb8af5e3f4c87356da3764d019, type: 3}
+  - {fileID: 3011099401091605824, guid: 75325b6b2529cb44fa80c4fdb1658aa2, type: 3}
+  - {fileID: 1946394181702720778, guid: a68dee24baba6034aaa4ff6196972ffe, type: 3}
+  - {fileID: 8336706629292957385, guid: 434f79e50a44c7b43ac3e2bcf82b5c67, type: 3}
+  - {fileID: 564395482510613536, guid: 7d39f0169f561f14b8a5765ca8121429, type: 3}
+  - {fileID: 3717129245463066280, guid: b5f1023b08d03a84e8818023ce25b621, type: 3}
+  - {fileID: 7782388312825294448, guid: 4c1b1e73069171e43a9574c6d4967792, type: 3}
+  - {fileID: 3213274490315983948, guid: 90a32177563c3c946bd338d13c8d6178, type: 3}
+  minX: -5
+  maxX: 8
+  minY: 1
+  maxY: 8
 --- !u!4 &1578616000
 Transform:
   m_ObjectHideFlags: 0
@@ -4783,7 +4799,7 @@ Transform:
   m_GameObject: {fileID: 1578615998}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.16, y: -4.5358477, z: -5.422115}
+  m_LocalPosition: {x: -0.1, y: -15, z: -5.422115}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

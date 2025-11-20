@@ -47,7 +47,7 @@ namespace Anoa.Explore
                 bool _boolBerhasil = classSampahUI.FunctionTambahSampah();
                 if (_boolBerhasil)
                 {
-                    // Kirim ID sampah ke PlayerController
+                    CollectedTrashData.listTrashID.Add(idSampah);
                     PlayerController.instance?.FunctionTriggerBawaSampah(idSampah);
 
                     gameObject.SetActive(false);

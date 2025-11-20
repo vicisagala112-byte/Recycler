@@ -28,6 +28,8 @@ namespace Anoa.Explore
 
         protected void Start()
         {
+           
+
             // ✅ Reset UI tong sampah setiap kali scene dimulai
             if (SampahUIManager.instance != null)
                 SampahUIManager.instance.FunctionResetTong();
@@ -116,5 +118,6 @@ namespace Anoa.Explore
 
             return _col.bounds.center;
         }
+
     }
 }

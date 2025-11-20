@@ -17,6 +17,17 @@ namespace Anoa
         protected TrashManager trashManager;
         protected Vector3 vec3PosisiAwal;
 
+        private void Awake()
+        {
+            gameManagerSorting = FindObjectOfType<GameManagerSorting>();
+            trashManager = FindObjectOfType<TrashManager>();
+
+            if (animator == null)
+                animator = GetComponent<Animator>();
+        }
+
+      
+
         private void Start()
         {
             gameManagerSorting = FindObjectOfType<GameManagerSorting>();
@@ -110,5 +121,6 @@ namespace Anoa
             if (trashManager != null)
                 trashManager.FunctionOnTrashProcessed(gameObject);
         }
+
     }
 }

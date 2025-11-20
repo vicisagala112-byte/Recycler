@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 namespace Anoa.Explore
 {
@@ -60,5 +61,18 @@ namespace Anoa.Explore
             intJumlahSampah = 0;
             FunctionUpdateUI();
         }
+        public void FunctionButtonSampahClicked()
+        {
+            if (FunctionTongPenuh())
+            {
+                SceneManager.LoadScene("Sorting");
+            }
+            else
+            {
+                Debug.Log("❗Sampah belum cukup untuk pindah ke scene sorting!");
+            }
+        }
+
     }
+
 }
