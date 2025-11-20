@@ -6,6 +6,8 @@ namespace Anoa.Explore
 {
     public class SampahManager : MonoBehaviour
     {
+        public static SampahManager instance;
+
         [Header("Pengaturan Sampah")]
         [SerializeField] protected GameObject[] arrObjSampahPrefabs;
         [SerializeField] protected int intJumlahMaksimalSampah = 20;
@@ -19,8 +21,18 @@ namespace Anoa.Explore
         protected List<GameObject> listObjSampahPool = new List<GameObject>();
         protected List<Collider2D> listColSungai = new List<Collider2D>();
 
+        private void Awake()
+        {
+            instance = this;
+        }
+
         protected void Start()
         {
+            // ✅ Reset UI tong sampah setiap kali scene dimulai
+            if (SampahUIManager.instance != null)
+                SampahUIManager.instance.FunctionResetTong();
+
+            // 🔹 Ambil collider sungai
             GameObject[] _arrObjSungai = GameObject.FindGameObjectsWithTag("Sungai");
             foreach (GameObject _objSungai in _arrObjSungai)
             {
@@ -35,6 +47,7 @@ namespace Anoa.Explore
                 return;
             }
 
+            // 🔹 Buat pool sampah
             for (int i = 0; i < intJumlahMaksimalSampah; i++)
             {
                 GameObject _prefab = arrObjSampahPrefabs[Random.Range(0, arrObjSampahPrefabs.Length)];
@@ -47,10 +60,12 @@ namespace Anoa.Explore
                 listObjSampahPool.Add(_objSampah);
             }
 
+            // 🔹 Aktifkan sampah awal
             for (int i = 0; i < intJumlahAktifAwal; i++)
                 FunctionActivateRandomTrash();
         }
 
+        // 🔹 Aktifkan sampah secara acak di sungai
         protected void FunctionActivateRandomTrash()
         {
             List<GameObject> _listNonActive = listObjSampahPool.FindAll(t => !t.activeSelf);
@@ -58,31 +73,34 @@ namespace Anoa.Explore
 
             GameObject _objRandomTrash = _listNonActive[Random.Range(0, _listNonActive.Count)];
             Vector3 _vecSpawnPos = FunctionGetRandomRiverPosition();
+
             _objRandomTrash.transform.position = _vecSpawnPos;
             _objRandomTrash.SetActive(true);
         }
 
+        // 🔹 Saat sampah diambil
         public void FunctionOnTrashCollected(GameObject _objTrash)
         {
             _objTrash.SetActive(false);
             StartCoroutine(FunctionRespawnRandomTrash());
         }
 
+        // 🔹 Respawn beberapa sampah baru setelah delay
         protected IEnumerator FunctionRespawnRandomTrash()
         {
             yield return new WaitForSeconds(floatRespawnDelay);
-
             int _intJumlahBaru = Random.Range(intMinSpawnBaru, intMaxSpawnBaru + 1);
+
             for (int i = 0; i < _intJumlahBaru; i++)
                 FunctionActivateRandomTrash();
 
             Debug.Log($"🔁 {_intJumlahBaru} sampah baru diaktifkan setelah ambil sampah!");
         }
 
+        // 🔹 Tentukan posisi acak di area sungai
         protected Vector3 FunctionGetRandomRiverPosition()
         {
-            if (listColSungai.Count == 0)
-                return Vector3.zero;
+            if (listColSungai.Count == 0) return Vector3.zero;
 
             Collider2D _col = listColSungai[Random.Range(0, listColSungai.Count)];
             Bounds _bounds = _col.bounds;
@@ -92,7 +110,6 @@ namespace Anoa.Explore
                 float _x = Random.Range(_bounds.min.x, _bounds.max.x);
                 float _y = Random.Range(_bounds.min.y, _bounds.max.y);
                 Vector2 _vecRandomPoint = new Vector2(_x, _y);
-
                 if (_col.OverlapPoint(_vecRandomPoint))
                     return _vecRandomPoint;
             }
