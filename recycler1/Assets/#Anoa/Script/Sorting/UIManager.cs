@@ -1,6 +1,6 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
-using UnityEngine.UI; // <--- penting untuk pakai Slider
+using UnityEngine.UI;
 using System.Collections;
 
 namespace Anoa
@@ -14,18 +14,18 @@ namespace Anoa
         [Header("Texts")]
         [SerializeField] protected TMP_Text textInfo;
         [SerializeField] protected TMP_Text textWaktu;
-        [SerializeField] protected TMP_Text textKoin;
+        [SerializeField] protected TMP_Text textScore; // tampil selama bermain
         [SerializeField] protected TMP_Text textScoreGameOver;
         [SerializeField] protected TMP_Text textScoreFinish;
 
         [Header("UI Tambahan")]
-        [SerializeField] protected Slider sliderWaktu; // <--- slider waktu baru
+        [SerializeField] protected Slider sliderWaktu;
 
         [Header("Info Durations")]
         [SerializeField] protected float floatInfoDisplayTime = 1f;
 
         protected Coroutine corInfo;
-        protected float waktuAwal; // <--- buat patokan total waktu
+        protected float waktuAwal;
 
         private void Start()
         {
@@ -33,8 +33,8 @@ namespace Anoa
             panelFinish.SetActive(false);
             textInfo.text = "";
 
-            // inisialisasi slider (kalau kamu punya waktu total, bisa ganti manual)
-            waktuAwal = 60f; // misal durasi permainan 60 detik
+            waktuAwal = sliderWaktu != null ? sliderWaktu.maxValue : 60f;
+
             if (sliderWaktu != null)
             {
                 sliderWaktu.maxValue = waktuAwal;
@@ -64,28 +64,25 @@ namespace Anoa
             int _intWaktu = Mathf.CeilToInt(_waktu);
             textWaktu.text = _intWaktu.ToString();
 
-            // update slider waktu juga
             if (sliderWaktu != null)
-            {
                 sliderWaktu.value = _waktu;
-            }
         }
 
-        public void FunctionUpdateKoin(int _koin)
+        public void FunctionUpdateScore(int _score)
         {
-            textKoin.text = _koin.ToString();
+            textScore.text = _score.ToString(); // tampilkan koin saat bermain
         }
 
-        public void FunctionTampilPanelGameOver(int _score)
+        public void FunctionTampilPanelGameOver(int _totalKoin)
         {
             panelGameOver.SetActive(true);
-            textScoreGameOver.text = _score.ToString();
+            textScoreGameOver.text = _totalKoin.ToString();
         }
 
-        public void FunctionTampilPanelFinish(int _score)
+        public void FunctionTampilPanelFinish(int _totalKoin)
         {
             panelFinish.SetActive(true);
-            textScoreFinish.text = _score.ToString();
+            textScoreFinish.text = _totalKoin.ToString();
         }
     }
 }
