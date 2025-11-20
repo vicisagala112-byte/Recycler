@@ -27,6 +27,12 @@ namespace Anoa
         protected Coroutine corInfo;
         protected float waktuAwal;
 
+        [SerializeField] protected TMP_Text textFinishTotalSampah;
+        [SerializeField] protected TMP_Text textFinishTotalKoin;
+
+        [SerializeField] protected TMP_Text textGameOverTotalSampah;
+        [SerializeField] protected TMP_Text textGameOverTotalKoin;
+
         private void Start()
         {
             panelGameOver.SetActive(false);
@@ -83,6 +89,22 @@ namespace Anoa
         {
             panelFinish.SetActive(true);
             textScoreFinish.text = _totalKoin.ToString();
+        }
+
+        public void FunctionTampilPanelFinish(int totalSampah, int totalKoin)
+        {
+            panelFinish.SetActive(true);
+
+            textFinishTotalSampah.text = totalSampah.ToString();
+            textFinishTotalKoin.text = totalKoin.ToString();
+        }
+
+        public void FunctionTampilPanelGameOver(int totalSampah, int totalKoin)
+        {
+            panelGameOver.SetActive(true);
+
+            textGameOverTotalSampah.text = totalSampah.ToString();
+            textGameOverTotalKoin.text = totalKoin.ToString();
         }
     }
 }
